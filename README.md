@@ -14,7 +14,7 @@ The (weakly-supervised) training dataset can be downloaded [here](https://dl.fba
 
 The (weakly-supervised) validation dataset can be downloaded [here](https://dl.fbaipublicfiles.com/VidDetours/detours_val_data_llava.json).
 
-The manually annotated testing dataset can be downloaded [here](https://dl.fbaipublicfiles.com/VidDetours/manual_test_set_localization_v3.json).
+The manually annotated testing dataset can be downloaded [here](https://dl.fbaipublicfiles.com/VidDetours/manual_test_set_localization_v3_unique_id.json).
 
 
 ## HowTo100M summary dataset
